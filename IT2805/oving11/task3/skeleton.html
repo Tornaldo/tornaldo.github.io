@@ -1,0 +1,59 @@
+<html><head>
+    <meta charset="UTF-8">
+    <title>Graphics and animation using HTML5 Canvas</title>
+    <style>
+        #the-canvas { border: 1px dashed gray }
+    </style>
+
+</head>
+<body onload="init();">
+<canvas id="the-canvas" width="500" height="400">
+    Your browser does not support the &lt;canvas&gt; element.
+</canvas>
+<img id="doge" src="../doge.jpg" style="display:none">
+
+<script type="text/javascript">
+
+    var ctx = null;
+    var canvas = null;
+    var degree = 0;
+    var positionX = 200;
+    var positionY = 250;
+    var imgReady = false;
+    var initReady = false;
+    var image = document.getElementById('doge');
+
+    function init() {
+        canvas = document.getElementById('the-canvas');
+        ctx = canvas.getContext("2d");
+        setInterval(animate, 30);
+    }
+
+    function drawElements() {
+        if(ctx === null) {
+            init();
+        }
+        ctx.fillStyle = "red";
+        ctx.arc(150,150,75,0, 360);
+        ctx.fill();
+        ctx.fillStyle = "blue";
+        ctx.fillRect(300, 50, 150,150);
+    }
+
+    function drawImage() {
+        x = positionX + 20*Math.cos(degree);
+        y = positionY + 20*Math.sin(degree);
+        ctx.drawImage(image, x,y);
+    }
+
+    function animate() {
+        ctx.fillStyle = "#fff"
+        ctx.fillRect(0,0, ctx.canvas.width, ctx.canvas.height);
+        drawElements();
+        drawImage();
+        degree += 3 * Math.PI / 180;
+    }
+
+</script>
+
+</body></html>

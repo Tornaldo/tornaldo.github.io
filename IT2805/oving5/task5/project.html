@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html><head>
+    <title>
+        Project description
+    </title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<header id="header">
+    <h1>IT2805 Øving 5</h1>
+    <nav id="navigation">
+        <ul>
+            <li><a href="ommeg.html">About me</a></li>
+            <li><a href="assignments.html">Assignments</a></li>
+            <li><a href="timeplan.html">Timetable</a></li>
+            <li><a class="active" href="project.html">Project</a></li>
+        </ul>
+    </nav>
+</header>
+<div id="main">
+<h1>Projects</h1>
+<section>
+    <h2>Evaluation of a poor site</h2>
+    <p>
+        <a href="http://www.mcdonalds.no/no.html">McDonald’s Norge</a>
+    </p>
+    <section class="paragraph">
+        <h3>Page title</h3>
+        <p>
+            All pages and subpages has an adequate page title. They are formatted correctly with the
+            identifying information first. For example <a href="http://www.mcdonalds.no/no/menu.html">this page</a>  has the page title “Meny :: McDonald’s.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Image text alternatives</h3>
+        <p>There are no alternative text on any image found on the site. Some images has the alt attribute but its for the most part just a null alt attribute. If the image is unavailable it is hard to know what the image would illustrate, and screen readers won’t be able to extract usable information from the images.
+        </p>
+        <p>
+            Most of the images displayed on McDonald’s home page are decorative. The page can be understood without images. For example the page describing the <a href="http://www.mcdonalds.no/no/menu/mat_og_drikke/hamburgere.html">hamburger assortment</a> could still be understandable if all images were removed, because the hamburger images are purely decorative.
+        </p>
+        <p>
+            There are however some images on the site that are linked to buttons, and important when navigating the site. For example the McDonald’s logo displayed in the upper left corner is also a link that returns the user to McDonalds front page. This image does not contain an alt attribute.
+        </p>
+        <p>
+            Another example of alternative text being crucial but not present can be found at <a href="http://www.mcdonalds.no/no/sok.html">the search page</a> . The red search button displaying the text “Search Now”, will send a search request. This button is very important for the page’s overall functionality. Unfortunately the text inside the red button is actually an image, and this image has no alt attribute describing it. If this image was not loaded correctly, or a screen reader was utilized this button/link would become a mystery to the user.
+
+        </p>
+        <p>
+            Even the main menu contains images instead of text. Navigating the site will be difficult for screen readers, or browsers where images are purposely left out to save bandwidth.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Headings</h3>
+        <p>
+            Most pages at McDonald’s do not use the header tags at all. A typical page looks like <a href="http://www.mcdonalds.no/no/food_quality/Kvalitet.html">this</a> . The header text is merged into the decorative page image. This is again a serious problem for the site’s accessibility. People who cannot use a mouse and those who use screen readers often use headings to navigate web sites. This becomes hard when headings are put into images.
+        </p>
+        <p>
+            <a href="http://www.mcdonalds.no/no/om_mcdonalds/Ansvar.html">Another heading</a> that actually is an image. This example could easily be converted to a css styled heading.
+        </p>
+        <p>
+            <a href="http://www.mcdonalds.no/no/menu.html">The McDonalds menu</a> do use headings tags, to create a hierarchy for the page. This page is a good example of how headings should be used for all of their pages.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Contrast ratio</h3>
+        <p>
+            Most of the text is displayed on a white background, and the text are usually black or in a grey color. The is probably adequate for most people, and for people with a visual impairment.
+        </p>
+        <p>
+            There are also instances of text with low contrast ratio. Each submenu consist of grey colored menu items put on a white to grey gradient. For example the submenu for “OM McDONALDS’S” has a item called “Flagship farms”. The contrast ratio for this item is low, and will probably be difficult to read for some people.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Resize text</h3>
+        <p>
+            Page zoom works well for this website. All elements increase in size without compromising the layout of the site. No elements overlap, all elements are usable, and no text gets cut off. However, the layout do not utilize word wrapping and horizontal scrolling is required if the page size is increased to much. Most people have trouble reading text efficiently when horizontal scrolling is necessary.
+        </p>
+        <p>
+            Another big problem is the website usage of images for headers and menu items. The text contained in images becomes blurry when the size increases. This is might be hard to read for people with visual impairment.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Keyboard access and visual focus</h3>
+        <p>
+            It is hard to use the site without a mouse. There are no visual cues when tabbing, like a dotted border around elements. It is possible to use tab to navigate around the site, but the lack of visual focus makes it not that usable.
+
+        </p>
+    </section>
+
+    <section class="paragraph">
+        <h3>Forms</h3>
+        <p>
+            The webpage has a contact page (“Kontakt oss”) where a user can submit a form. The form contains input elements for name, phone number, e-mail address and a text field for the request. The form provide good error handling, but the messages displayed to the user are poorly worded.
+
+        </p>
+        <p>
+            The fields are available using the keyboard, but the tab key has to be pressed as much as 20 times to get to the first field. The only visual indicator when entering a field using the keyboard is a small text cursor.
+
+        </p>
+        <p>Each field has text describing what type of input it requires, but this text is not put into a label. The text is therefore not associated in any way to the field. The text describing a field can be confusing. For example the field to put your telephone number is described with the text: “Telefon, Telefon”. Why is telephone repeated two times? Is it required to enter the telephone number twice in the field?
+        </p>
+        <p>All fields are required for this particular form, but there are no indicator present, such as an asterisk. Only after submitting the form will a javascript alert box display an error. The error messages are not very descriptive either. If a user incorrectly enters “test@testcom”, forgetting the period between “test” and “com”, the error text only warns the user about the length of the email. (“Din E-post adresse (maks 50 tegn). Another cryptic message is displayed if a request message is forgotten: “Skriv her (...) “.
+        </p>
+    </section>
+
+    <section class="paragraph">
+        <h3>Conclusion</h3>
+        <p>
+            The website basic structure and layout is satisfactory for a regular user, but there are a lot of accessibility issues that can potentially prevent a atypical user from accessing the website’s content. The most prominent issue is the rampant use of images with no alternative text for crucial elements like headings and menu items.
+        </p>
+    </section>
+</section>
+<section>
+    <h2>Evaluation of a “good” site</h2>
+    <p>
+        <a href="http://9gag.com/">9GAG</a>
+    </p>
+    <section class="paragraph">
+        <h3>Page title</h3>
+        <p>
+            Page titles are following the general conventions and norms, they are also very descriptive, and usually not too long which makes for a good user experience. Content posted to the website follows a different convention (Content - 9GAG)  than the “standard” pages (9GAG - description), making them fairly distinguishable both from each other and other pages.
+            E.g:<a href="http://9gag.com/gag/a7KrMr2">This page</a> have the title “Mobile phone - 9GAG”.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Image text alternatives</h3>
+        <p>
+            Throughout the site alternative texts for images are added with high consistency, containing the title of the post or an good description of the element, giving the page support for screen readers.
+
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Headings</h3>
+        <p>
+            The headings mostly seem appropriate, but there are some inconsistencies. The same header tags have been given different sizes depending on in which modules of the page they occur (h2 of main side (left) are much larger than h2-tags in the sidebar). Since this is done consistently, it works and makes sense, and somewhat increases the modularity of the page, but might have made more sense to use h3 for the smaller headings instead.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Contrast ratio</h3>
+        <p>
+            The site has a very simple design, reduced readability due to low contrast basically are a non-issue. The navigation bar could maybe be discussed, but the contrast are high enough (#777 to #f4f4f4).
+
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Resize text</h3>
+        <p>
+            In this aspect 9GAG still has a way to good, the sites content is mostly based on media and not much text, so on most pages this is not an issue and resizes well, but on the <a href="http://forum.9gag.com/">forum</a> amongst some other pages text overlap, in that case the top heading and navigation items makes a mess, not only when resizing the text but also when resizing the screen.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Keyboard access and visual focus</h3>
+        <p>
+            The site supports keyboard access by having all elements “tab-able” in a intuitive order. But this experience is horrible since the are no visual focus, if it wasn’t for the status bar showing the destination below, you wouldn’t know which item was active at all. There are also used some javascript-generated links, so even this fails to indicate destination a large portion of the time. Really awful and sloppy of the page.
+
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Forms, labels and errors</h3>
+        <p>
+            Forms have descriptive labels, are accessible and indicated correctly.
+
+            The error handling is not optimal though. There should be give better feedback to the user when illegal input is made. E.g the subscription signup. When entering an invalid e-mail, the text just turns red and are not that noticeable. A message should be provided here, for better usability.
+
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Multimedia alternatives</h3>
+        <p>
+            9GAG does not host most multimedia like videos and audio, and are therefore reliant on that the host provides transcripts etc. There are descriptions of the media though. Multimedia such as audio and video does not autostart by default, but users could make it do so when providing the media, for instance when providing the link to a youtube vide0 you could add “?autostart=1”. So many of these things are not in their hands directly, and the site solves it in a good manner.
+
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Basic structure check</h3>
+        <p>
+            This is a site heavily based on media, and when turning off all styles and media. it’s not very pretty or user friendly. The content are in the right order with clear headings, but the menues are a mess. The site is still usable though.
+
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>Conclusion</h3>
+        <p>
+            The site is generally pretty good and follows most of the UI- and structure, “norms” and rules. Usability is high and the site very much follows the KISS-principle. Some areas have room for improvement though, especially in regards to the keyboard access’ visual aspect.
+            Overall a very positive impression of the site.
+        </p>
+    </section>
+
+</section>
+<section>
+    <h2>Outline what we want to do for our site</h2>
+    <section class="paragraph">
+        <h3>The primary goal of the website, summarized in one or two sentences</h3>
+        <p>
+            The goal of the website is to be a demo of a social network for sharing food recipes and getting together to eat food.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>The number of web pages and a title for each page</h3>
+        <p>
+            Our tentative plan is to make these 10 pages:
+        </p>
+        <ol>
+            <li>“[name of the website]” (homepage)</li>
+            <li>“[name of the website] - Toms profile” (profile of a user)</li>
+            <li>“[name of the website] - Lisas profile” (profile of a user)</li>
+            <li>“[name of the website] - How to make spagetti” (profile of a recipe)</li>
+            <li>“[name of the website] - How to make boil potatoes” (profile of a recipe)</li>
+            <li>“[name of the website] - How to make make pizza” (profile of a recipe)</li>
+            <li>“[name of the website] - Toms spagetti-group” (group page for people getting together to make food from a specific recipy)</li>
+            <li>“[name of the website] - Applications to your projects” (page showing people applying to take part in your group)</li>
+            <li>“[name of the website] - Your applications” (page showing responses to your applications)</li>
+            <li>“[name of the website] - Sitemap” (sitemap)</li>
+        </ol>
+        <p>The pages are meant to emulate the pages of a dynamic, user-generated website, but as this is a demo they will be far from fully working in this regard, and probably won’t have any backend.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>The potential audience, do you need to consider things like old browsers, resolutions, and other accessibility issues</h3>
+        <p>
+            To which degree there would be a market for such a website at all we do not know, but if there was we wouldn’t be sure of which age segment would be most prominent, although we would expect there to be mostly adults using the site. We don’t see the need for having stronger demands for being compatible with older browsers that what is normal, but there may be an argument for caring more about being compatible with mobile phones and ipads than what is usual, since people might want to look at the recipes while not being with their computer.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>What multi-media content do you want to include?</h3>
+        <p>
+            Pictures only.
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>What type of interactions and dynamic features do you want on your site?</h3>
+        <p>
+            Our main priority whereas dynamic features are concerned is to be able to switch between sites without having to reload the entire page (making this process smooth). We also like the idea of being able to hide and display segments of a website without reloading the entire thing. We may also use JavaScript to automatically scale images that one can imagine have been uploaded by users in a way that makes sure they look esthetic (aren’t scewed, etc).
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>An indication of where you will be getting the content (including text, images and other multimedia files)</h3>
+        <p>
+            We will get the recipes from wikibooks (http://en.wikibooks.org/wiki/Cookbook:Recipes), and will get the images from wikimedia commons. The rest will be text that we use will be written by ourselves.
+
+        </p>
+    </section>
+    <section class="paragraph">
+        <h3>What did you learn from reviewing similar sites?</h3>
+        <p>
+            We did look at some similar sites, but we didn’t learn much new from it (reviewing the designs of other webpages, and thinking about how they are best designed, is something we have done a lot of previously, and we didn’t find anything we thought was surprising from this genre of websites).
+
+        </p>
+    </section>
+</section>
+</div>
+
+<footer id="footer">
+    <p><b>Annoying footer</b></p>
+</footer>
+
+</body></html>

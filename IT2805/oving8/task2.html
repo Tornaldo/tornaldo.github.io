@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random quotes</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script type="text/javascript">
+        var loadQuote = function() {
+            var quotes = [
+                '“Be the change that you wish to see in the world”',
+                '"Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes... the ones who see things differently -- they’re not fond of rules... You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things... they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do.” - Apples think-different-campaign from 1997',
+                '“I think it’s important to reason from first principles rather than by analogy. The normal way we conduct our lives is we reason by analogy. [With analogy] we are doing this because it’s like something else that was done, or it is like what other people are doing. [With first principles] you boil things down to the most fundamental truths…and then reason up from there.” - Elon Musk',
+                '“There is no hope for the fanciful idea of reaching the Moon because of insurmountable barriers to escaping the Earth’s gravity.” - Dr. Forest Ray Moulton, astronomer, 1932                ',
+                '“All this writing about space travel is utter bilge.” - Sir Richard Woolley, astronomer Royal of Britain, 1956',
+                '“To place a man in a multi-stage rocket and project him into the controlling gravitational field of the moon…. I am bold enough to say that such a man-made voyage will never occur regardless of all future advances.” - Dr. Lee De Forest, engineer, 1957',
+                '“Be sceptical of the quotes you see attributed to people on the internet” - Abraham Lincoln',
+                '“The rapid progress true science now makes, occasions my regretting sometimes that I was born so soon. It is impossible to imagine the height to which may be carried in a 1000 years the power of man over matter. (…) All diseases may by sure means be prevented or cured, not excepting even that of old Age.” - Benjamin Franklin in letter to Joseph Priestly                ',
+                '“I wish it were possible, from this instance, to invent a method of embalming drowned persons [from the context it’s clear that he’s talkin about dead people in general, not only those dead from drowning], in such a manner that they might be recalled to life at any period, however distant; for having very ardent desire to see and observe the state of America a hundred years hence, I should prefer to an ordinary death, being immersed with a few friends in a cask of Madeira, until that time, then to be recalled to life by the solar warmth of my dear country. But… in all probability, we live in a century too little advanced, and too near the infancy of science to hope to see such an art brought in our time to its perfection.” Benjamin Franklin in letter to Jacques Barbeu-Dubourg                ',
+                '“Where a calculator like the Eniac is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 tubes and perhaps only weigh one and a half tons.” - Popular Mechanics, Mars 1949'
+            ];
+
+            var n = Math.floor(Math.random() * quotes.length);
+            var selectedQuote = quotes[n];
+            var el = document.getElementById('quotes');
+            el.textContent = selectedQuote;
+            console.log(selectedQuote);
+        }
+        window.addEventListener('load', loadQuote);
+    </script>
+</head>
+<body>
+    <h1>Random quote (refresh to see different quotes):</h1>
+    <output id="quotes"></output>
+</body>
+</html>

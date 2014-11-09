@@ -1,0 +1,20 @@
+.title {
+    padding-bottom: 40px;
+}
+
+h1,h2,h3 {
+    font-family: Helvetica, sans-serif;
+}
+
+p,a {
+
+    font-family: Helvetica, sans-serif;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+body {
+    background-color: pink;
+}
