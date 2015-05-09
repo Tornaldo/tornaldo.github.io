@@ -2,124 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f08489-8384-4e13-a333-3f0459be100f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task1/countries.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task2/faq.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task2/faq.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task2/faq.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task2/faq.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task3/bank.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task3/bank.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task3/bank_med_dtd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task3/bank_med_xsd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving10/task3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving11.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving11/doge.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving11/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving11/task1/skeleton.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving11/task2/skeleton.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving11/task3/skeleton.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving2/lenker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving2/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving2/ommeg.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving2/profilepicture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving2/sidekart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving2/timeplan.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/corporate_information/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/home/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/home/information.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/home/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/images/blaster.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/images/dismantler.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/images/gravity.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/images/mainbuilding.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/images/partitioner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/product_information/dismantler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/product_information/gravity2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/product_information/partitioner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/product_information/products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/product_information/starblaster5000.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/technical_support/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/technical_support/manuals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/technical_support/software.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task1/technical_support/support.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/gloshaugen/gamlefysikk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/gloshaugen/hovedbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/gloshaugen/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/gloshaugen/itbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/gloshaugen/p15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/gloshaugen/realfagsbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/images/gamlefysikk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/images/gloshaugen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/images/hovedbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/images/itbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/images/p15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task2/images/realfagsbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task3/design.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task3/sitemap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving3/task3/webutvikling_øving.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/gloshaugen/gamlefysikk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/gloshaugen/hovedbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/gloshaugen/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/gloshaugen/itbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/gloshaugen/p15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/gloshaugen/realfagsbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/images/gamlefysikk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/images/gloshaugen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/images/hovedbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/images/itbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/images/p15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/images/realfagsbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task1/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task2/bearOne.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task2/little-boxes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task2/positioning.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task3/artikkel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task3/cssed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task3/cssed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task3/site.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/gloshaugen/gamlefysikk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/gloshaugen/hovedbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/gloshaugen/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/gloshaugen/itbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/gloshaugen/p15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/gloshaugen/realfagsbygget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/images/gamlefysikk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/images/gloshaugen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/images/hovedbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/images/itbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/images/p15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/images/realfagsbygget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task4/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task5/assignments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task5/ommeg.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task5/profilepicture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task5/project.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task5/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving5/task5/timeplan.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving6/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving6/task1/images/bbb-splash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving6/task1/mediaWithStyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving6/task1/multimedia.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving6/task2/request-form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving6/task2/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving8/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving8/stopwatch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving8/stopwatch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving8/task1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving8/task2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving9/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving9/task1/table-sort.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving9/task1/table-sort_files/table-sort.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving9/task2/todo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IT2805/oving9/task2/todo.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tornaldo.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,10 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="543">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -157,6 +51,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -265,15 +166,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="839" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2021419" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2021419" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -311,7 +212,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="719">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="568">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
